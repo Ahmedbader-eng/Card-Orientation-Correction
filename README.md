@@ -22,7 +22,6 @@ The final desing uses a conveyer belt to move the card from the input stack via 
 
 ### Electical and Electronic Desing
 Since the system uses machine vision a sufficient amount of lighting is required for every processed frame. A PCB of LED ring was made for that purpose. Another PCB was made to hold the microcontroller and all other required electronics, mounts and connectors. Below photos of the PCBs.
-
 <img src="Images/IMG_0578.JPG" width="400">
 <img src="Images/IMG_0435.jpg" width="200">
 <img src="Images/IMG_0427.PNG" width="200">
